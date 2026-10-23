@@ -26,4 +26,4 @@ Replace demonstration events with separately recorded character and Foley assets
 
 ## Files and verification
 
-`docs/index.html` contains the interface and short case study; `docs/style.css` contains the visual theme; `docs/app.js` contains the deterministic event score and audio renderer. JavaScript syntax checks passed. Browser layout and audio playback remain unverified because the development preview service was unavailable. Test on desktop and mobile headphones before presenting it as a finished portfolio release.
+`docs/index.html` contains the interface and short case study; `docs/style.css` contains the visual theme; `docs/app.js` contains the deterministic event score and audio renderer.   
