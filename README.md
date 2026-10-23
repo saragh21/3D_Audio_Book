@@ -1,10 +1,10 @@
 # The Wild Wood — Spatial Narrative Study
 
-A compact headphone listening prototype for Sara Ghorbani's spatial audiobook concept, inspired by Chapter III of Kenneth Grahame's *The Wind in the Willows*. The sage-and-cream visual design follows the Virtual Wind Chime portfolio project.
+A compact headphone listening prototype for spatial audiobook concept, inspired by Chapter III of Kenneth Grahame's *The Wind in the Willows*.
 
 ## Try it
 
-Open `docs/index.html` in a modern browser, use headphones, and press **Begin listening**. The 24-second sketch moves through a distant whistle, surrounding pattering, and shelter inside a hollow tree. Scene buttons jump to each state; the map can be hidden to listen without visual direction cues. Pause, restart and output controls are included. Switching tabs pauses playback.
+Open `  in a browser, use headphones, and press **Begin listening**. The 24-second sketch moves through a distant whistle, surrounding pattering, and shelter inside a hollow tree. Scene buttons jump to each state; the map can be hidden to listen without visual direction cues. Pause, restart and output controls are included. Switching tabs pauses playback.
 
 All sound is synthesized demonstration material. There is no recorded narration, licensed SFX, finished audiobook mix or REAPER/IEM render in this package.
 
