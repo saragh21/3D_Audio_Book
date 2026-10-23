@@ -4,15 +4,9 @@ A compact headphone listening prototype for spatial audiobook concept, inspired 
 
 ## Try it
 
-Open `  in a browser, use headphones, and press **Begin listening**. The 24-second sketch moves through a distant whistle, surrounding pattering, and shelter inside a hollow tree. Scene buttons jump to each state; the map can be hidden to listen without visual direction cues. Pause, restart and output controls are included. Switching tabs pauses playback.
+Open https://saragh21.github.io/3D_Audio_Book/ in a browser, use headphones, and press **Begin listening**. The 24-second sketch moves through a distant whistle, surrounding pattering, and shelter inside a hollow tree. Scene buttons jump to each state; the map can be hidden to listen without visual direction cues. Pause, restart and output controls are included. Switching tabs pauses playback.
 
 All sound is synthesized demonstration material. There is no recorded narration, licensed SFX, finished audiobook mix or REAPER/IEM render in this package.
-
-## GitHub Pages
-
-Create a repository named `3d-audiobook` and upload this README and the `docs` folder at its root. In Settings → Pages, choose Deploy from a branch, then main and /docs, and Save. Once deployed, the expected project address is https://saragh21.github.io/3d-audiobook/ (not live until you publish it). The repository and page are separate from the wind-chime project.
-
-No build step or package installation is needed. The only external asset request is Google Fonts; system fonts are fallbacks. For local HTTP preview, run `python3 -m http.server 8000` from the repository and open http://localhost:8000/docs/.
 
 ## The question
 
