@@ -34,8 +34,4 @@
   font-size: clamp(2rem, 4vw, 3.5rem);
   line-height: 1.12;
 }
-/* Temporary test — remove after checking */
-#sceneCopy {
-  font-size: 30px !important;
-  color: red !important;
-}
+ 
