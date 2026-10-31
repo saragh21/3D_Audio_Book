@@ -17,3 +17,20 @@
   font-size: 1rem; /* Usually 16px */
   line-height: 1.6;
 }
+/* Main title: “The forest has…” */
+.intro h1 {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  line-height: 1.08;
+}
+
+/* Listening scene title: “Someone, somewhere.” */
+#sceneTitle {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.12;
+}
+
+/* Idea section title: “Can a place be heard…” */
+.notes h2 {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.12;
+}
